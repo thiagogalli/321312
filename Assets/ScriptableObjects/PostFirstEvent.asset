@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 12c39feac39e40c47b5cd8ae6d6ddcab, type: 3}
+  m_Name: PostFirstEvent
+  m_EditorClassIdentifier: 
+  dialogue:
+  - "Meus Parab\xE9ns! Conseguiu encontrar todos os pares de itens!"
+  - "Agora, vou te contar um pouco sobre essa imagem que est\xE1 vendo logo atr\xE1s
+    de mim. "
+  - "Ela se refere a momentos muito importantes para mim: meu batismo, minha primeira
+    comunh\xE3o e minha crisma."
+  - "Nasci em Forli, It\xE1lia, no dia 10 de mar\xE7o de 1861, e neste mesmo dia
+    fui batizada na catedral da cidade."
+  - Desta forma, iniciei meu nascimento para a vida nova em Cristo.
+  - "Quando tinha apenas 10 anos de idade, estava prestes a receber um sacramento
+    especial: a \"Primeira Comunh\xE3o\". "
+  - A igreja estava decorada com flores e velas, e vestia meu melhor traje branco.
+  - "Quando o padre ofereceu a h\xF3stia consagrada, senti uma profunda alegria e
+    paz em meu cora\xE7\xE3o."
+  - "Eu sabia que estava se aproximando de Jesus de uma maneira especial, e isso
+    me inspirou a seguir uma vida de amor e servi\xE7o aos irm\xE3os.\r"
+  - "Ap\xF3s dois anos, com meus 12 anos de idade recebi o sacramento do \u201CCrisma\u201D.
+    \r"
+  - "Naquele dia a igreja estava bela, com decora\xE7\xF5es que simbolizavam este
+    momento importante.\r"
+  - "Quando o bispo imp\xF4s as m\xE3os sobre minha cabe\xE7a e me deu a un\xE7\xE3o
+    com o \xF3leo do Crisma, senti uma profunda alegria.\r"
+  - "Eu sabia que estava me tornando uma soldada de Cristo, fortalecida pelo mover
+    do Esp\xEDrito Santo.\r"
+  - "E esse foi mais um momento inesquec\xEDvel, que marcou minha confirma\xE7\xE3o
+    na f\xE9 e dedica\xE7\xE3o ao servi\xE7o de Deus.\r"
+  - "Agora que voc\xEA j\xE1 sabe um pouco sobre a minha hist\xF3ria, reconhece que
+    somos agraciados e enriquecidos atrav\xE9s da un\xE7\xE3o dos Santos Sacramentos. "
+  - "Voc\xEA est\xE1 pronto para juntos partimos para a pr\xF3xima etapa?"

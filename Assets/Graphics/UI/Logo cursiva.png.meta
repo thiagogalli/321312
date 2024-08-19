@@ -1,0 +1,773 @@
+fileFormatVersion: 2
+guid: 36595f9a3b142db41a28ddbf2b4d8a0e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2195495663120796517
+    second: Logo cursiva_0
+  - first:
+      213: -8665923612061315166
+    second: Logo cursiva_1
+  - first:
+      213: -8300222332019656142
+    second: Logo cursiva_2
+  - first:
+      213: 7961693019823091098
+    second: Logo cursiva_3
+  - first:
+      213: 8037039972011564743
+    second: Logo cursiva_4
+  - first:
+      213: -4732671509575008921
+    second: Logo cursiva_5
+  - first:
+      213: -8214661383923453278
+    second: Logo cursiva_6
+  - first:
+      213: -3770214224164058689
+    second: Logo cursiva_7
+  - first:
+      213: -1987762683191048469
+    second: Logo cursiva_8
+  - first:
+      213: 824209908479699443
+    second: Logo cursiva_9
+  - first:
+      213: -7549547702525975578
+    second: Logo cursiva_10
+  - first:
+      213: 8131716444758922912
+    second: Logo cursiva_11
+  - first:
+      213: -5865939211115728958
+    second: Logo cursiva_12
+  - first:
+      213: 8730824084918312619
+    second: Logo cursiva_13
+  - first:
+      213: -7540274948326364317
+    second: Logo cursiva_14
+  - first:
+      213: 82912405233053290
+    second: Logo cursiva_15
+  - first:
+      213: -9221950345831925774
+    second: Logo cursiva_16
+  - first:
+      213: 877828633316601067
+    second: Logo cursiva_17
+  - first:
+      213: 2607552917152694760
+    second: Logo cursiva_18
+  - first:
+      213: -161389443971316223
+    second: Logo cursiva_19
+  - first:
+      213: 1558918484602748300
+    second: Logo cursiva_20
+  - first:
+      213: 7975881822421407149
+    second: Logo cursiva_21
+  - first:
+      213: -9106142515347371149
+    second: Logo cursiva_22
+  - first:
+      213: 5162233985104896033
+    second: Logo cursiva_23
+  - first:
+      213: -6461788516607666590
+    second: Logo cursiva_24
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Logo cursiva_0
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 761
+        width: 206
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9436cd93580881e0800000000000000
+      internalID: -2195495663120796517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo cursiva_1
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 765
+        width: 162
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2af4a6c83647cb780800000000000000
+      internalID: -8665923612061315166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo cursiva_2
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 765
+        width: 234
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23a3437f3cfafcc80800000000000000
+      internalID: -8300222332019656142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo cursiva_3
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 765
+        width: 110
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9d23416e9d9d7e60800000000000000
+      internalID: 7961693019823091098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo cursiva_4
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 915
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ce5d51c54d498f60800000000000000
+      internalID: 8037039972011564743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo cursiva_5
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 765
+        width: 175
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76d7b29365c225eb0800000000000000
+      internalID: -4732671509575008921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo cursiva_6
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 762
+        width: 186
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a2bf159ef8affd80800000000000000
+      internalID: -8214661383923453278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo cursiva_7
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 763
+        width: 148
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb9839973228dabc0800000000000000
+      internalID: -3770214224164058689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo cursiva_8
+      rect:
+        serializedVersion: 2
+        x: 1409
+        y: 762
+        width: 124
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be6ce9a0f5c0a64e0800000000000000
+      internalID: -1987762683191048469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo cursiva_9
+      rect:
+        serializedVersion: 2
+        x: 1618
+        y: 765
+        width: 233
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f92a4f7b8e207b00800000000000000
+      internalID: 824209908479699443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo cursiva_10
+      rect:
+        serializedVersion: 2
+        x: 1768
+        y: 763
+        width: 132
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e3a2102d5e9a3790800000000000000
+      internalID: -7549547702525975578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo cursiva_11
+      rect:
+        serializedVersion: 2
+        x: 1940
+        y: 756
+        width: 228
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a6de08d509a9d070800000000000000
+      internalID: 8131716444758922912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo cursiva_12
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 451
+        width: 229
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cf6967dd5ff79ea0800000000000000
+      internalID: -5865939211115728958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo cursiva_13
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 417
+        width: 297
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bae1bf15f3e1a2970800000000000000
+      internalID: 8730824084918312619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo cursiva_14
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 431
+        width: 161
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36bea3472ef8b5790800000000000000
+      internalID: -7540274948326364317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo cursiva_15
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 431
+        width: 233
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6ea36da460962100800000000000000
+      internalID: 82912405233053290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo cursiva_16
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 428
+        width: 156
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f7b56c350d050080800000000000000
+      internalID: -9221950345831925774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo cursiva_17
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 429
+        width: 132
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beca086bd7cae2c00800000000000000
+      internalID: 877828633316601067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo cursiva_18
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 427
+        width: 206
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e18bef0093ef2420800000000000000
+      internalID: 2607552917152694760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo cursiva_19
+      rect:
+        serializedVersion: 2
+        x: 1693
+        y: 429
+        width: 212
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1068791e721a2cdf0800000000000000
+      internalID: -161389443971316223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo cursiva_20
+      rect:
+        serializedVersion: 2
+        x: 1794
+        y: 429
+        width: 132
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8d798c2a1462a510800000000000000
+      internalID: 1558918484602748300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo cursiva_21
+      rect:
+        serializedVersion: 2
+        x: 1883
+        y: 583
+        width: 67
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da55ceb624600be60800000000000000
+      internalID: 7975881822421407149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo cursiva_22
+      rect:
+        serializedVersion: 2
+        x: 1909
+        y: 429
+        width: 211
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37b43a2f0ab70a180800000000000000
+      internalID: -9106142515347371149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo cursiva_23
+      rect:
+        serializedVersion: 2
+        x: 2082
+        y: 581
+        width: 46
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12060a17570f3a740800000000000000
+      internalID: 5162233985104896033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo cursiva_24
+      rect:
+        serializedVersion: 2
+        x: 2094
+        y: 431
+        width: 161
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 266d6e5849d1356a0800000000000000
+      internalID: -6461788516607666590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Logo cursiva_0: -2195495663120796517
+      Logo cursiva_1: -8665923612061315166
+      Logo cursiva_10: -7549547702525975578
+      Logo cursiva_11: 8131716444758922912
+      Logo cursiva_12: -5865939211115728958
+      Logo cursiva_13: 8730824084918312619
+      Logo cursiva_14: -7540274948326364317
+      Logo cursiva_15: 82912405233053290
+      Logo cursiva_16: -9221950345831925774
+      Logo cursiva_17: 877828633316601067
+      Logo cursiva_18: 2607552917152694760
+      Logo cursiva_19: -161389443971316223
+      Logo cursiva_2: -8300222332019656142
+      Logo cursiva_20: 1558918484602748300
+      Logo cursiva_21: 7975881822421407149
+      Logo cursiva_22: -9106142515347371149
+      Logo cursiva_23: 5162233985104896033
+      Logo cursiva_24: -6461788516607666590
+      Logo cursiva_3: 7961693019823091098
+      Logo cursiva_4: 8037039972011564743
+      Logo cursiva_5: -4732671509575008921
+      Logo cursiva_6: -8214661383923453278
+      Logo cursiva_7: -3770214224164058689
+      Logo cursiva_8: -1987762683191048469
+      Logo cursiva_9: 824209908479699443
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

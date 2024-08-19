@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: af05388dc4e37914d9b04c8e2255acb5, type: 3}
+  m_Name: "Ter\xE7o"
+  m_EditorClassIdentifier: 
+  cardSprite: {fileID: -8395365524371103383, guid: 9592fb11c46a64c40959e83495d7c986, type: 3}
+  cardName: "Ter\xE7o"
+  cardDescription: "[Descri\xE7\xE3o]"

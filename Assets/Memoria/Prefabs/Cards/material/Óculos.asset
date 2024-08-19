@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: af05388dc4e37914d9b04c8e2255acb5, type: 3}
+  m_Name: "\xD3culos"
+  m_EditorClassIdentifier: 
+  cardSprite: {fileID: 545780570985289979, guid: 2a0a84b3807aa8949a82e5ed4a3adf82, type: 3}
+  cardName: "\xD3culos"
+  cardDescription: "[Descri\xE7\xE3o]"

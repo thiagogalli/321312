@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 12c39feac39e40c47b5cd8ae6d6ddcab, type: 3}
+  m_Name: PostSecondEvent
+  m_EditorClassIdentifier: 
+  dialogue:
+  - "Uau! Est\xE1 indo muito bem! Meus parab\xE9ns!"
+  - "A imagem atr\xE1s de mim refere-se a um pequeno orfanato que abri para meninas
+    pobres, em Nervi, pr\xF3ximo da cidade de G\xEAnova."
+  - "Meu pai contribuiu com uma parte da heran\xE7a para a funda\xE7\xE3o."
+  - A senhora Josefina foi nomeada como professora e tinha regras severas.
+  - "As cal\xFAnias de algumas pessoas causaram situa\xE7\xF5es que nos geraram problemas
+    jur\xEDdicos. "
+  - "N\xE3o fui condenada, mas, lamentavelmente, tivemos que fechar as portas do
+    orfanato."
+  - "Em minhas ora\xE7\xF5es, pedi orienta\xE7\xE3o ao Nosso Senhor para me mostrar
+    o caminho que Ele havia preparado para mim."
+  - "Em minha conversa com meu diretor espiritual, Padre Guanella, ele disse que
+    meu chamado era cuidar dos \xF3rf\xE3os."
+  - "Ent\xE3o, em 1892, ingressei na Congrega\xE7\xE3o das Filhas de Santa Maria
+    da Providencia, fundada pelo Padre Guanella. "
+  - Cuidei com carinho das meninas que me foram confiadas.
+  - "Em 4 de mar\xE7o de 1894, deixei a congrega\xE7\xE3o das Filhas da Santa Maria
+    da Provid\xEAncia juntamente com Elisa, que me ajudar\xE1 em minha nova miss\xE3o. "
+  - Nesta nova fase de minha vida, mais uma vez, meu pai esteve presente, oferecendo-me
+    apoio.
+  - "Com a carta de recomenda\xE7\xE3o do bispo de Como, Monsenhor Ferrari, chegamos
+    a cidade de Viareggio."
+  - "Logo, nos dedicamos \xE0s meninas pobres e abandonadas, \xE0s mulheres idosas
+    e carentes."
+  - "Abrimos tamb\xE9m uma escola gratuita para estudantes sem recursos econ\xF4micos."
+  - "Voc\xEA est\xE1 preparado para entrar na ultima etapa deste caminho de minha
+    vida?"
+  - "Se sim, fico muito feliz pela sua dedica\xE7\xE3o e por buscar conhecer mais
+    sobre minha vida."
+  - Espero que eu possa ter te inspirado a seguir os caminhos do Senhor.
