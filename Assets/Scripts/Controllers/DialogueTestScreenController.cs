@@ -19,6 +19,7 @@ public class DialogueTestScreenController : MonoBehaviour
 
     ArtifactPointsController artifactPointsController;
     TouchPointsController touchPointsController;
+    PlayerNameDefinitionController playerNameController;
 
     async void Start()
     {
@@ -50,12 +51,16 @@ public class DialogueTestScreenController : MonoBehaviour
     {
         artifactPointsController = GameObject.FindGameObjectWithTag("ArtifactController").GetComponent<ArtifactPointsController>();
         touchPointsController = GameObject.FindGameObjectWithTag("TouchController").GetComponent<TouchPointsController>();
+        playerNameController = GameObject.FindGameObjectWithTag("PlayerNameDefinition").GetComponent<PlayerNameDefinitionController>();
 
         if (artifactPointsController != null)
             Destroy(artifactPointsController);
 
         if (touchPointsController != null)
             Destroy(touchPointsController);
+
+        if (playerNameController != null)
+            Destroy(playerNameController);
 
         await levelLoaderController.LoadLevelAsync(Enums.Scenes.InitialScreen);
     }

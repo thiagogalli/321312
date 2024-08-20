@@ -49,7 +49,7 @@ public class GameplayController : MonoBehaviour
 
     TouchPointsController touchPointsController;
     TextMeshProUGUI touchPointsText;
-
+    PlayerNameDefinitionController playerNameDefinitionController;
 
     [SerializeField] LevelLoaderController levelLoaderController;
 
@@ -68,6 +68,8 @@ public class GameplayController : MonoBehaviour
 
         touchPointsController = GameObject.FindGameObjectWithTag("TouchController").GetComponent<TouchPointsController>();
         touchPointsText = GameObject.FindGameObjectWithTag("TouchText").GetComponent<TextMeshProUGUI>();
+
+        playerNameDefinitionController = GameObject.FindGameObjectWithTag("PlayerNameDefinition").GetComponent<PlayerNameDefinitionController>();
 
         var actualPoints = artifactController.artifactPoints.GetPoints();
         artifactPointsText.text = actualPoints.ToString();
@@ -160,6 +162,8 @@ public class GameplayController : MonoBehaviour
 
             //Alteração gráfica (text):
             touchPointsText.text = actualTouches.ToString();
+
+            playerNameDefinitionController.GetScoreboard().points = actualTouches;
         }
 
         if (!card.isFlipped && FlippedCards.Count < 2)

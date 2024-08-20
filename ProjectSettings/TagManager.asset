@@ -9,6 +9,7 @@ TagManager:
   - PointText
   - TouchController
   - TouchText
+  - PlayerNameDefinition
   layers:
   - Default
   - TransparentFX
