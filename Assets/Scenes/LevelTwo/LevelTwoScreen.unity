@@ -152,7 +152,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 485, y: 153}
+  m_AnchoredPosition: {x: 454, y: 153}
   m_SizeDelta: {x: 143.8591, y: 143.8591}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &421453415
@@ -279,7 +279,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 485, y: -278.58}
+  m_AnchoredPosition: {x: 454, y: -278.58}
   m_SizeDelta: {x: 143.8591, y: 143.8591}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &817947070
@@ -314,7 +314,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -431, y: -62.789}
+  m_AnchoredPosition: {x: -462, y: -62.789}
   m_SizeDelta: {x: 143.8591, y: 143.8591}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &887309590 stripped
@@ -368,6 +368,22 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 66521598497842934, guid: bbba7d42f527af140bce7bfe3c78cfff, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -275.99997
+      objectReference: {fileID: 0}
+    - target: {fileID: 1443992896165301262, guid: bbba7d42f527af140bce7bfe3c78cfff, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -276
+      objectReference: {fileID: 0}
+    - target: {fileID: 2644618818760827576, guid: bbba7d42f527af140bce7bfe3c78cfff, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 87.96348
+      objectReference: {fileID: 0}
+    - target: {fileID: 2744417325573086407, guid: bbba7d42f527af140bce7bfe3c78cfff, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -91.86046
+      objectReference: {fileID: 0}
     - target: {fileID: 3231993171046805333, guid: bbba7d42f527af140bce7bfe3c78cfff, type: 3}
       propertyPath: m_Name
       value: CardCanvas
@@ -375,6 +391,18 @@ PrefabInstance:
     - target: {fileID: 3356591347491100583, guid: bbba7d42f527af140bce7bfe3c78cfff, type: 3}
       propertyPath: m_IsActive
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3529653253981205841, guid: bbba7d42f527af140bce7bfe3c78cfff, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -91.86046
+      objectReference: {fileID: 0}
+    - target: {fileID: 3672757690557361644, guid: bbba7d42f527af140bce7bfe3c78cfff, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 267.78735
+      objectReference: {fileID: 0}
+    - target: {fileID: 5265094692482679777, guid: bbba7d42f527af140bce7bfe3c78cfff, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 87.96348
       objectReference: {fileID: 0}
     - target: {fileID: 6799150398396996835, guid: bbba7d42f527af140bce7bfe3c78cfff, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
@@ -404,9 +432,25 @@ PrefabInstance:
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
       value: UnityEngine.Object, UnityEngine
       objectReference: {fileID: 0}
+    - target: {fileID: 6983881578135358012, guid: bbba7d42f527af140bce7bfe3c78cfff, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 267.7873
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359727158100492851, guid: bbba7d42f527af140bce7bfe3c78cfff, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 87.96348
+      objectReference: {fileID: 0}
+    - target: {fileID: 7396708883173049591, guid: bbba7d42f527af140bce7bfe3c78cfff, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 267.78735
+      objectReference: {fileID: 0}
     - target: {fileID: 7558448432097084692, guid: bbba7d42f527af140bce7bfe3c78cfff, type: 3}
       propertyPath: m_IsActive
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7677836993265177543, guid: bbba7d42f527af140bce7bfe3c78cfff, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 59
       objectReference: {fileID: 0}
     - target: {fileID: 7782672149428862642, guid: bbba7d42f527af140bce7bfe3c78cfff, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
@@ -415,6 +459,14 @@ PrefabInstance:
     - target: {fileID: 7782672149428862642, guid: bbba7d42f527af140bce7bfe3c78cfff, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
       value: ClosePopupButton
+      objectReference: {fileID: 0}
+    - target: {fileID: 7920149375405312747, guid: bbba7d42f527af140bce7bfe3c78cfff, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -91.86035
+      objectReference: {fileID: 0}
+    - target: {fileID: 8148105758292537840, guid: bbba7d42f527af140bce7bfe3c78cfff, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -276
       objectReference: {fileID: 0}
     - target: {fileID: 8528062196746299250, guid: bbba7d42f527af140bce7bfe3c78cfff, type: 3}
       propertyPath: m_Pivot.x
@@ -616,7 +668,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -431, y: 153}
+  m_AnchoredPosition: {x: -462, y: 153}
   m_SizeDelta: {x: 143.8591, y: 143.8591}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1001 &1104762225
@@ -915,7 +967,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -431, y: -278.58}
+  m_AnchoredPosition: {x: -462, y: -278.58}
   m_SizeDelta: {x: 143.8591, y: 143.8591}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &1816264534
@@ -950,7 +1002,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 485, y: -62.789}
+  m_AnchoredPosition: {x: 454, y: -62.789}
   m_SizeDelta: {x: 143.8591, y: 143.8591}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1823959571 stripped

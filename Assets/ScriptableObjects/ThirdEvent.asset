@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: ThirdEvent
   m_EditorClassIdentifier: 
   dialogue:
-  - "A imagem atr\xE1s de mim reflete um pouco da minha vida de ora\xE7\xE3o."
+  - "A imagem atr\xE1s de mim refere-se \xE0 minha vida de ora\xE7\xE3o."
   - "Vamos para o desafio final do nosso jogo da mem\xF3ria e, em seguida, te conto
     um pouco mais sobre meus momentos de ora\xE7\xE3o!"
   - Boa sorte!

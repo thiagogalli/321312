@@ -40,8 +40,13 @@ public class DialogueTestScreenController : MonoBehaviour
 
         if (dialogueTest.GetDialogue.Length == dialogueController.GetIndex())
         {
-            btnNextSentenceText.text = "VAMOS LÁ!";
-            btnBackToMainMenu.SetActive(true);
+            if (SceneManager.GetActiveScene().buildIndex == (int)Enums.Scenes.LevelThreeFinalScreen)
+                btnNextSentenceText.text = "CONTINUAR";
+            else
+            {
+                btnNextSentenceText.text = "VAMOS LÁ!";
+                btnBackToMainMenu.SetActive(true);
+            }
         }
         else if (dialogueController.GetIndex() == 0)
             await AdvanceToNextSceneInBuildIndex();
