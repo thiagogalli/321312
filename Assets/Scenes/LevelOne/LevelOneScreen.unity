@@ -860,6 +860,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 1247907960}
     - target: {fileID: 1453080592103852951, guid: 9e42e1c3b326f214b9ea51a63be0ec50, type: 3}
+      propertyPath: <CardBack>k__BackingField
+      value: 
+      objectReference: {fileID: 8598652155730204624, guid: 7d8f671b34553ba46aea6681cd33eaa1, type: 3}
+    - target: {fileID: 1453080592103852951, guid: 9e42e1c3b326f214b9ea51a63be0ec50, type: 3}
       propertyPath: popupWindowCardDescription
       value: 
       objectReference: {fileID: 785695167}

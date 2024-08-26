@@ -12,6 +12,7 @@ public class DialogueTestScreenController : MonoBehaviour
 
     [SerializeField] GameObject btnNextSentence;
     [SerializeField] GameObject btnBackToMainMenu;
+    [SerializeField] GameObject btnSkipDialogue;
 
     [SerializeField] TextMeshProUGUI btnNextSentenceText;
 
@@ -23,20 +24,26 @@ public class DialogueTestScreenController : MonoBehaviour
 
     async void Start()
     {
+        btnSkipDialogue.SetActive(false);
         await Awaitable.WaitForSecondsAsync(1f);
         dialogueController.OpenDialogueAnim();
         await Awaitable.WaitForSecondsAsync(1.5f);
         await dialogueController.NextSentence(dialogueTest);
         btnNextSentence.SetActive(true);
+        btnSkipDialogue.SetActive(true);
     }
 
     public async void ClickNextSentence()
     {
         btnNextSentence.SetActive(false);
+        btnSkipDialogue.SetActive(false);
         await dialogueController.NextSentence(dialogueTest);
 
         if (dialogueController.GetIndex() != 0)
+        {
             btnNextSentence.SetActive(true);
+            btnSkipDialogue.SetActive(true);
+        }
 
         if (dialogueTest.GetDialogue.Length == dialogueController.GetIndex())
         {
@@ -50,6 +57,11 @@ public class DialogueTestScreenController : MonoBehaviour
         }
         else if (dialogueController.GetIndex() == 0)
             await AdvanceToNextSceneInBuildIndex();
+    }
+    public async void SkipDialogue()
+    {
+        btnSkipDialogue.SetActive(false);
+        await AdvanceToNextSceneInBuildIndex();
     }
 
     public async void BackToMainMenu()

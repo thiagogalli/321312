@@ -177,7 +177,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3b311298b8addfb4087ffb8a68c838e1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  <CardBack>k__BackingField: {fileID: 8165340486926578809, guid: cf492d426dce3ab4fa5166f9a542db93, type: 3}
+  <CardBack>k__BackingField: {fileID: 8598652155730204624, guid: 7d8f671b34553ba46aea6681cd33eaa1, type: 3}
   <CardData>k__BackingField:
   - {fileID: 11400000, guid: 30aed9b35490bff48b588a01a12fafa3, type: 2}
   - {fileID: 11400000, guid: d9034af6c583c7e4d8d400fc8ca8705d, type: 2}
@@ -205,3 +205,9 @@ MonoBehaviour:
   winPrefab: {fileID: 0}
   <FlippedCards>k__BackingField: []
   levelLoaderController: {fileID: 0}
+  popupWindowCardImage: {fileID: 0}
+  popupWindowCardTitle: {fileID: 0}
+  popupWindowCardDescription: {fileID: 0}
+  popupWindowAnim: {fileID: 0}
+  popupFadeAnim: {fileID: 0}
+  exchangeArtifactPoints: {fileID: 0}

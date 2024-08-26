@@ -279,6 +279,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 66521598497842934, guid: bbba7d42f527af140bce7bfe3c78cfff, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -272
+      objectReference: {fileID: 0}
     - target: {fileID: 1443992896165301262, guid: bbba7d42f527af140bce7bfe3c78cfff, type: 3}
       propertyPath: m_AnchoredPosition.x
       value: -272
@@ -287,6 +291,14 @@ PrefabInstance:
       propertyPath: m_AnchoredPosition.y
       value: 157
       objectReference: {fileID: 0}
+    - target: {fileID: 2644618818760827576, guid: bbba7d42f527af140bce7bfe3c78cfff, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 91.96342
+      objectReference: {fileID: 0}
+    - target: {fileID: 2744417325573086407, guid: bbba7d42f527af140bce7bfe3c78cfff, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -87.8604
+      objectReference: {fileID: 0}
     - target: {fileID: 3231993171046805333, guid: bbba7d42f527af140bce7bfe3c78cfff, type: 3}
       propertyPath: m_Name
       value: CardCanvas
@@ -294,6 +306,14 @@ PrefabInstance:
     - target: {fileID: 3356591347491100583, guid: bbba7d42f527af140bce7bfe3c78cfff, type: 3}
       propertyPath: m_IsActive
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3529653253981205841, guid: bbba7d42f527af140bce7bfe3c78cfff, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -87.8604
+      objectReference: {fileID: 0}
+    - target: {fileID: 3672757690557361644, guid: bbba7d42f527af140bce7bfe3c78cfff, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 271.7872
       objectReference: {fileID: 0}
     - target: {fileID: 5265094692482679777, guid: bbba7d42f527af140bce7bfe3c78cfff, type: 3}
       propertyPath: m_AnchoredPosition.x
@@ -338,6 +358,14 @@ PrefabInstance:
     - target: {fileID: 6983881578135358012, guid: bbba7d42f527af140bce7bfe3c78cfff, type: 3}
       propertyPath: m_AnchoredPosition.y
       value: 156.99998
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359727158100492851, guid: bbba7d42f527af140bce7bfe3c78cfff, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 91.96342
+      objectReference: {fileID: 0}
+    - target: {fileID: 7396708883173049591, guid: bbba7d42f527af140bce7bfe3c78cfff, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 271.7872
       objectReference: {fileID: 0}
     - target: {fileID: 7558448432097084692, guid: bbba7d42f527af140bce7bfe3c78cfff, type: 3}
       propertyPath: m_IsActive
