@@ -12,7 +12,7 @@ public class MainMenuView : MonoBehaviour
     [SerializeField] TextMeshProUGUI textException;
     [SerializeField] GameObject textExceptionGameObject;
     [SerializeField] Button btnStartGame;
-    [SerializeField] PlayerNameDefinitionController playerNameDefinition;
+    PlayerNameDefinitionController playerNameDefinition;
 
     public TMP_InputField GetNameInput() => nameInput;
 
@@ -31,6 +31,7 @@ public class MainMenuView : MonoBehaviour
 
     public void Start()
     {
+        playerNameDefinition = GameObject.FindGameObjectWithTag("PlayerNameDefinition").GetComponent<PlayerNameDefinitionController>();
         SetPlayerNameAfterSelection();
     }
 
