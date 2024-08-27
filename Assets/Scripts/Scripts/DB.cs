@@ -6,12 +6,9 @@ using Mono.Data.Sqlite;
 using System.Data;
 using TMPro;
 using System.Threading;
-using Unity.VisualScripting.Dependencies.Sqlite;
 using UnityEngine.SceneManagement;
 using System.Threading.Tasks;
 using System;
-using UnityEditor.MemoryProfiler;
-using UnityEditor.Search;
 
 public class DB : MonoBehaviour
 {
