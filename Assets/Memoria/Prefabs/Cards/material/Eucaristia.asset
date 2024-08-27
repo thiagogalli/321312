@@ -12,6 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: af05388dc4e37914d9b04c8e2255acb5, type: 3}
   m_Name: Eucaristia
   m_EditorClassIdentifier: 
-  cardSprite: {fileID: -5871967497920641926, guid: 60593f88dcb93a6408733821f0ff67c8, type: 3}
+  cardSprite: {fileID: -5829496048217901958, guid: 9d897f77ab9bb0e4eaad037d333293f7, type: 3}
   cardName: Eucaristia
-  cardDescription: "[Descri\xE7\xE3o]"
+  cardDescription: "C\xE1lice, um cacho de uvas representando o Vinho (Sangue de
+    Cristo) e a H\xF3stia (Corpo de Cristo). Representa o sacrif\xEDcio e a entrega
+    de Cristo por amor a cada um de n\xF3s."

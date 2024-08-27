@@ -66,18 +66,18 @@ public class DialogueTestScreenController : MonoBehaviour
 
     public async void BackToMainMenu()
     {
-        artifactPointsController = GameObject.FindGameObjectWithTag("ArtifactController").GetComponent<ArtifactPointsController>();
-        touchPointsController = GameObject.FindGameObjectWithTag("TouchController").GetComponent<TouchPointsController>();
-        playerNameController = GameObject.FindGameObjectWithTag("PlayerNameDefinition").GetComponent<PlayerNameDefinitionController>();
+        artifactPointsController = GameObject.FindGameObjectWithTag("ArtifactController")?.GetComponent<ArtifactPointsController>();
+        touchPointsController = GameObject.FindGameObjectWithTag("TouchController")?.GetComponent<TouchPointsController>();
+        //playerNameController = GameObject.FindGameObjectWithTag("PlayerNameDefinition")?.GetComponent<PlayerNameDefinitionController>();
 
         if (artifactPointsController != null)
-            Destroy(artifactPointsController);
+            Destroy(artifactPointsController.gameObject);
 
         if (touchPointsController != null)
-            Destroy(touchPointsController);
+            Destroy(touchPointsController.gameObject);
 
-        if (playerNameController != null)
-            Destroy(playerNameController);
+        //if (playerNameController != null)
+        //    Destroy(playerNameController);
 
         await levelLoaderController.LoadLevelAsync(Enums.Scenes.InitialScreen);
     }

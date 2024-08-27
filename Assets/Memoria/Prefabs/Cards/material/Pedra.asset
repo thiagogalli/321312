@@ -13,5 +13,8 @@ MonoBehaviour:
   m_Name: Pedra
   m_EditorClassIdentifier: 
   cardSprite: {fileID: -3075835081349375007, guid: 1f72ab2516b789142b760435ba92f95f, type: 3}
-  cardName: Pedra
-  cardDescription: "[Descri\xE7\xE3o]"
+  cardName: Pedrinha no sapato
+  cardDescription: "Um s\xEDmbolo dos desafios e dificuldades que Madre Cl\xE9lia
+    enfrentava. Representa os obst\xE1culos e desafios constantes em sua vida, os
+    quais ela enfrentava com f\xE9 e coragem. \xC9 uma forma de representar suas
+    prova\xE7\xF5es."

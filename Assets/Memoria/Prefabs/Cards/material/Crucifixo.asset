@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   cardSprite: {fileID: 6646729092416449749, guid: 11e8fd76b0cd52a4da7a728c860d45ff, type: 3}
   cardName: Crucifixo
-  cardDescription: "[Descri\xE7\xE3o]"
+  cardDescription: "Um crucifixo \xE9 uma cruz com a figura de Cristo. \xC9 um lembrete
+    constante do sacrif\xEDcio e do amor de Cristo. Usado para medita\xE7\xE3o e
+    venera\xE7\xE3o."

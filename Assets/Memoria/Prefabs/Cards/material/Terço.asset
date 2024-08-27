@@ -14,4 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   cardSprite: {fileID: -8395365524371103383, guid: 9592fb11c46a64c40959e83495d7c986, type: 3}
   cardName: "Ter\xE7o"
-  cardDescription: "[Descri\xE7\xE3o]"
+  cardDescription: "Um cord\xE3o feito de linha ou metal, com 59 contas, utilizado
+    para a ora\xE7\xE3o. O ter\xE7o representava a conex\xE3o constante de Madre
+    Clelia com Deus atrav\xE9s da ora\xE7\xE3o, sendo um fio espiritual que a unia
+    ao Divino Esposo. Utilizado para contar as ora\xE7\xF5es durante o Santo Ros\xE1rio."

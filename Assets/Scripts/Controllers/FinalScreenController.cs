@@ -47,9 +47,9 @@ public class FinalScreenController : MonoBehaviour
     }
     public void BackToMainMenu()
     {
-        Destroy(artifactPointsController);
-        Destroy(touchPointsController);
-        Destroy(playerNameDefinitionController);
+        Destroy(artifactPointsController.gameObject);
+        Destroy(touchPointsController.gameObject);
+        Destroy(playerNameDefinitionController.gameObject);
         levelLoaderController.LoadLevel(Enums.Scenes.InitialScreen);
     }
 }

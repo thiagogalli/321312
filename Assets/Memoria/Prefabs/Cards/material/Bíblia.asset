@@ -14,4 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   cardSprite: {fileID: 632218460847282404, guid: a515ce7717af3d343acf03d64f296209, type: 3}
   cardName: "B\xEDblia"
-  cardDescription: "[Descri\xE7\xE3o]"
+  cardDescription: "A Palavra de Deus, contendo os ensinamentos e os mandamentos
+    de Deus. Fonte de inspira\xE7\xE3o e guia espiritual, a B\xEDblia era o alicerce
+    da f\xE9 de Madre Cl\xE9lia. Objeto utilizado para leitura, estudo e medita\xE7\xE3o
+    sobre a Palavra de Deus."

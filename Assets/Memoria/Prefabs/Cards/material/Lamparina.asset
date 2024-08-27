@@ -14,4 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   cardSprite: {fileID: -7233457235559771712, guid: 8a67216ccdcd86c418402830d8566fc9, type: 3}
   cardName: Lamparina
-  cardDescription: "[Descri\xE7\xE3o]"
+  cardDescription: "Um dispositivo que ilumina atrav\xE9s da queima de \xF3leo. Representa
+    a luz da f\xE9 de Madre Cl\xE9lia, que a guiava pelos caminhos de Deus. Objeto
+    utilizado para o fornecimento de luz, especialmente, durante \xE0 noite. Utilizado,
+    tamb\xE9m, em momentos de ora\xE7\xE3o noturna ou medita\xE7\xE3o pessoal. "

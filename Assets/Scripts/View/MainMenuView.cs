@@ -32,6 +32,7 @@ public class MainMenuView : MonoBehaviour
     public void Start()
     {
         playerNameDefinition = GameObject.FindGameObjectWithTag("PlayerNameDefinition").GetComponent<PlayerNameDefinitionController>();
+        playerNameDefinition.GetScoreboard().points = 0;
         SetPlayerNameAfterSelection();
     }
 

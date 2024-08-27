@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   cardSprite: {fileID: -138912328951267567, guid: bc936c5db6b8e61438dc42bbfb8fcd01, type: 3}
   cardName: Cruz
-  cardDescription: "[Descri\xE7\xE3o]"
+  cardDescription: "Um s\xEDmbolo crist\xE3o que representa o sacrif\xEDcio de Jesus
+    Cristo. Representa um sinal de seguran\xE7a, ref\xFAgio e uni\xE3o com Cristo.
+    Objeto usado para medita\xE7\xE3o e lembran\xE7a do sacrif\xEDcio de Cristo."

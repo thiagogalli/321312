@@ -14,4 +14,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   cardSprite: {fileID: -8579657959526081800, guid: 3139dbe274c340a45b9a83f5edf5aa07, type: 3}
   cardName: Martelo
-  cardDescription: "[Descri\xE7\xE3o]"
+  cardDescription: "Um s\xEDmbolo de um momento dif\xEDcil na vida de Madre Cl\xE9lia.
+    Representa as lutas e sacrif\xEDcios enfrentados em sua miss\xE3o."

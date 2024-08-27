@@ -14,4 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   cardSprite: {fileID: 545780570985289979, guid: 2a0a84b3807aa8949a82e5ed4a3adf82, type: 3}
   cardName: "\xD3culos"
-  cardDescription: "[Descri\xE7\xE3o]"
+  cardDescription: "Um instrumento usado para corrigir ou melhorar a vis\xE3o. Simboliza
+    a clareza espiritual e a busca cont\xEDnua pela orienta\xE7\xE3o de Deus. Objeto
+    utilizado para melhorar a vis\xE3o f\xEDsica, e simbolicamente, para buscar uma
+    vis\xE3o mais clara da vontade de Deus."

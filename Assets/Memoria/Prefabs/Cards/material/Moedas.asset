@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   cardSprite: {fileID: 7467608959883519128, guid: f837482bcb9994547848cd32d007df36, type: 3}
   cardName: Moedas
-  cardDescription: "[Descri\xE7\xE3o]"
+  cardDescription: "Dinheiro usado no cotidiano. Representa a caridade e bondade
+    que Madre Cl\xE9lia demonstrava aos necessitados. Pode ser utilizado para ajudar,
+    financeiramente, aqueles que precisam de apoio."
