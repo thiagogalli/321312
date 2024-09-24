@@ -1,0 +1,269 @@
+fileFormatVersion: 2
+guid: fc8813d39758caf4a8ebb1ef8effedcb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7211575484953817665
+    second: Ciencia_da_Computacao__1_-removebg-preview_0
+  - first:
+      213: 8158825487349239536
+    second: Ciencia_da_Computacao__1_-removebg-preview_1
+  - first:
+      213: -1883619579850979244
+    second: Ciencia_da_Computacao__1_-removebg-preview_2
+  - first:
+      213: 7600018422608550956
+    second: Ciencia_da_Computacao__1_-removebg-preview_3
+  - first:
+      213: -429560357116141958
+    second: Ciencia_da_Computacao__1_-removebg-preview_4
+  - first:
+      213: 4782416981396261641
+    second: Ciencia_da_Computacao__1_-removebg-preview_5
+  - first:
+      213: -5871009036059738863
+    second: Ciencia_da_Computacao__1_-removebg-preview_6
+  - first:
+      213: -7961114004702616762
+    second: Ciencia_da_Computacao__1_-removebg-preview_7
+  - first:
+      213: 6543211987595855082
+    second: Ciencia_da_Computacao__1_-removebg-preview_8
+  - first:
+      213: 2662316200203099853
+    second: Ciencia_da_Computacao__1_-removebg-preview_9
+  - first:
+      213: -1148967402842528581
+    second: Ciencia_da_Computacao__1_-removebg-preview_10
+  - first:
+      213: 2143737093767813117
+    second: Ciencia_da_Computacao__1_-removebg-preview_11
+  - first:
+      213: -3108488947450485231
+    second: Ciencia_da_Computacao__1_-removebg-preview_12
+  - first:
+      213: 5999588929752338124
+    second: Ciencia_da_Computacao__1_-removebg-preview_13
+  - first:
+      213: 6862795091771854434
+    second: Ciencia_da_Computacao__1_-removebg-preview_14
+  - first:
+      213: -5520877593751118732
+    second: Ciencia_da_Computacao__1_-removebg-preview_15
+  - first:
+      213: -490703708962860753
+    second: Ciencia_da_Computacao__1_-removebg-preview_16
+  - first:
+      213: 3355436901256258214
+    second: Ciencia_da_Computacao__1_-removebg-preview_17
+  - first:
+      213: 3087511333665383325
+    second: Ciencia_da_Computacao__1_-removebg-preview_18
+  - first:
+      213: 6704125467093027798
+    second: Ciencia_da_Computacao__1_-removebg-preview_19
+  - first:
+      213: 8472784692305709738
+    second: Ciencia_da_Computacao__1_-removebg-preview_20
+  - first:
+      213: 710617877963389732
+    second: Ciencia_da_Computacao__1_-removebg-preview_21
+  - first:
+      213: 788937014210243216
+    second: Ciencia_da_Computacao__1_-removebg-preview_22
+  - first:
+      213: 8822983772878828660
+    second: Ciencia_da_Computacao__1_-removebg-preview_23
+  - first:
+      213: -8269616096938849930
+    second: Ciencia_da_Computacao__1_-removebg-preview_24
+  - first:
+      213: 5675656827637799299
+    second: Ciencia_da_Computacao__1_-removebg-preview_25
+  - first:
+      213: -3370767766140573156
+    second: Ciencia_da_Computacao__1_-removebg-preview_26
+  - first:
+      213: 6348061584296148712
+    second: Ciencia_da_Computacao__1_-removebg-preview_27
+  - first:
+      213: -8178038705218843092
+    second: Ciencia_da_Computacao__1_-removebg-preview_28
+  - first:
+      213: 6605371876620192364
+    second: Ciencia_da_Computacao__1_-removebg-preview_29
+  - first:
+      213: 1053463042838147157
+    second: Ciencia_da_Computacao__1_-removebg-preview_30
+  - first:
+      213: -960277215811594138
+    second: Ciencia_da_Computacao__1_-removebg-preview_31
+  - first:
+      213: 4485139423043059985
+    second: Ciencia_da_Computacao__1_-removebg-preview_32
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ciencia_da_Computacao__1_-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 34
+        width: 812
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2805e94907c48f24b83bbd49014c6f2c
+      internalID: -2089480507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: e6124783c90bcda459dc79b3525d686a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Ciencia_da_Computacao__1_-removebg-preview_0: -2089480507
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
