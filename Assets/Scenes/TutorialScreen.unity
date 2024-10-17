@@ -420,15 +420,19 @@ PrefabInstance:
     - target: {fileID: 6846044423086455995, guid: d900976383276bf4eae58774a031b0b7, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 4746064119346316632, guid: f629d0b4bd7d3014f97354b2315eb916, type: 3}
+      objectReference: {fileID: -2817772145260576825, guid: d84b77bad6f068148870f305693c8dea, type: 3}
     - target: {fileID: 7810912362882360200, guid: d900976383276bf4eae58774a031b0b7, type: 3}
       propertyPath: m_Name
       value: TutorialCanvas
       objectReference: {fileID: 0}
+    - target: {fileID: 7810912362882360200, guid: d900976383276bf4eae58774a031b0b7, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7945224129790875005, guid: d900976383276bf4eae58774a031b0b7, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: -6118094824794794898, guid: 01f1ca6ed9ac6174aa110d0b6bf1f17d, type: 3}
+      objectReference: {fileID: 2136229383337499746, guid: ceaff8b6bce9abd47bfb9108ddb7d79d, type: 3}
     - target: {fileID: 8983270491947466845, guid: d900976383276bf4eae58774a031b0b7, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
