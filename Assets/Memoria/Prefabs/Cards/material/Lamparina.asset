@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: af05388dc4e37914d9b04c8e2255acb5, type: 3}
   m_Name: Lamparina
   m_EditorClassIdentifier: 
-  cardSprite: {fileID: -7233457235559771712, guid: 8a67216ccdcd86c418402830d8566fc9, type: 3}
+  cardSprite: {fileID: 7662046888016633708, guid: 456c2d0ae0e77ea4d9c7cc4e06f66c9f, type: 3}
   cardName: Lamparina
   cardDescription: "Um dispositivo que ilumina atrav\xE9s da queima de \xF3leo. Representa
     a luz da f\xE9 de Madre Cl\xE9lia, que a guiava pelos caminhos de Deus. Objeto

@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: af05388dc4e37914d9b04c8e2255acb5, type: 3}
   m_Name: "Di\xE1rio"
   m_EditorClassIdentifier: 
-  cardSprite: {fileID: 6281893516391628210, guid: bfa87726293e7be4aaf50638ff179c89, type: 3}
+  cardSprite: {fileID: -7198063197135932791, guid: 440c3eb3c8ff83149a024bd7dd140cd5, type: 3}
   cardName: "Di\xE1rio"
   cardDescription: "Um caderno ou livro onde se registram experi\xEAncias pessoais
     e espirituais. Representa um registro da jornada espiritual de Madre Cl\xE9lia

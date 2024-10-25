@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: af05388dc4e37914d9b04c8e2255acb5, type: 3}
   m_Name: Martelo
   m_EditorClassIdentifier: 
-  cardSprite: {fileID: -8579657959526081800, guid: 3139dbe274c340a45b9a83f5edf5aa07, type: 3}
+  cardSprite: {fileID: -6768447132523649141, guid: ba3f90318b1ae074cbe868e159f35633, type: 3}
   cardName: Martelo
   cardDescription: "Um s\xEDmbolo de um momento dif\xEDcil na vida de Madre Cl\xE9lia.
     Representa as lutas e sacrif\xEDcios enfrentados em sua miss\xE3o."

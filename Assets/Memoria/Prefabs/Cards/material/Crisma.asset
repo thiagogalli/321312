@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: af05388dc4e37914d9b04c8e2255acb5, type: 3}
   m_Name: Crisma
   m_EditorClassIdentifier: 
-  cardSprite: {fileID: -5871967497920641926, guid: 60593f88dcb93a6408733821f0ff67c8, type: 3}
+  cardSprite: {fileID: 2132821079964172647, guid: d9afd64c8111e784d8df695e150f953e, type: 3}
   cardName: Crisma
   cardDescription: "C\xE1lice, Cruz e a pomba representando o Espirito Santo. Representa
     a confirma\xE7\xE3o de seu compromisso com Deus e com a Igreja, fortalecendo-a

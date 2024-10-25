@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: af05388dc4e37914d9b04c8e2255acb5, type: 3}
   m_Name: Sino
   m_EditorClassIdentifier: 
-  cardSprite: {fileID: -4601644190946521596, guid: 252cc3c0de00ab34f89b3f896bd8c09b, type: 3}
+  cardSprite: {fileID: 345647359322961403, guid: ac073c3f557256446b938134611074cd, type: 3}
   cardName: Sino
   cardDescription: "Um instrumento usado para emitir sons, geralmente associado a
     chamadas lit\xFArgicas. Pode representar o chamado \xE0 f\xE9, \xE0 ora\xE7\xE3o

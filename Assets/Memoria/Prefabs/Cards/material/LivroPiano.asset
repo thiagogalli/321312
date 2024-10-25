@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: af05388dc4e37914d9b04c8e2255acb5, type: 3}
   m_Name: LivroPiano
   m_EditorClassIdentifier: 
-  cardSprite: {fileID: -3089920106709479198, guid: abce98c83dbe52f439ea2d49034851cb, type: 3}
+  cardSprite: {fileID: 64524454870968210, guid: e8872dc5a1fa5af4dbf56626375a4063, type: 3}
   cardName: Livro de Piano
   cardDescription: "Um livro contendo partituras de m\xFAsicas para o piano. Representa
     um s\xEDmbolo dos momentos de alegria, harmonia e paz que a m\xFAsica proporcionava

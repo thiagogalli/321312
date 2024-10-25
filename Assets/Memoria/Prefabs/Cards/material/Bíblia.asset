@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: af05388dc4e37914d9b04c8e2255acb5, type: 3}
   m_Name: "B\xEDblia"
   m_EditorClassIdentifier: 
-  cardSprite: {fileID: 632218460847282404, guid: a515ce7717af3d343acf03d64f296209, type: 3}
+  cardSprite: {fileID: -18341175740144194, guid: 5e4223369d7cfe5488c6f6b47c691b09, type: 3}
   cardName: "B\xEDblia"
   cardDescription: "A Palavra de Deus, contendo os ensinamentos e os mandamentos
     de Deus. Fonte de inspira\xE7\xE3o e guia espiritual, a B\xEDblia era o alicerce

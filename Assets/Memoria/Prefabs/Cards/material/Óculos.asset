@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: af05388dc4e37914d9b04c8e2255acb5, type: 3}
   m_Name: "\xD3culos"
   m_EditorClassIdentifier: 
-  cardSprite: {fileID: 545780570985289979, guid: 2a0a84b3807aa8949a82e5ed4a3adf82, type: 3}
+  cardSprite: {fileID: 7654042428433558485, guid: 7ae81299bd7bb22459fd37af257c2cba, type: 3}
   cardName: "\xD3culos"
   cardDescription: "Um instrumento usado para corrigir ou melhorar a vis\xE3o. Simboliza
     a clareza espiritual e a busca cont\xEDnua pela orienta\xE7\xE3o de Deus. Objeto
