@@ -260,7 +260,12 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Flor grande_0: 5833184981487205481
+      Flor grande_1: 3475763284691525586
+      Flor grande_2: -8808108525824920782
+      Flor grande_3: 8826464551158626345
+      Flor grande_4: 4544989660403720412
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

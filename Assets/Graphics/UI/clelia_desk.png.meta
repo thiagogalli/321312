@@ -164,7 +164,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      clelia_desk_0: -2817772145260576825
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
